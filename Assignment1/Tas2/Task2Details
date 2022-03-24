@@ -1,4 +1,0 @@
-Task 2 - Top-10 Best Drivers (15 Points)
-We would like to figure out who the top 10 best drivers are in terms of their average earned money per
-minute spent carrying a customer. The total amount field is the total money earned on a trip. In the end, we
-are interested in computing a set of (driver, money per minute) pairs
