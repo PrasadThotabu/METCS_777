@@ -1,5 +1,7 @@
 # METCS_777
 Boston University MET CS 777 Course
+
+
 Task 1: Top-10 Active Taxis (5 points)
 Many different taxis have had multiple drivers. Write and execute a Spark Python program that computes
 the top ten taxis that have had the largest number of drivers. Your output should be a set of (medallion,
